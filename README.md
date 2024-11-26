@@ -67,6 +67,7 @@ cd ./usbemani
 # Build a controller!
 make examples/arduino/pro-micro/iidx:default
 make lain/mini-4:default
+make default/dj-shoko/axion
 ```
 
 ### What if I have an issue?
